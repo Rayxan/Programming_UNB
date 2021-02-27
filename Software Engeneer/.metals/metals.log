@@ -1,0 +1,34 @@
+[0m2021.02.17 11:24:00 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.17 11:24:01 INFO  time: initialize in 1.2s[0m
+[0m2021.02.17 11:24:03 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.17 11:24:03 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.17 17:53:45 INFO  shutting down Metals[0m
+[0m2021.02.18 00:25:11 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.18 00:25:12 INFO  time: initialize in 0.8s[0m
+[0m2021.02.18 00:25:14 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.18 00:25:14 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+fev 19, 2021 5:54:40 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFORMAÇÕES: Unsupported notification method: $/setTraceNotification
+[0m2021.02.19 17:59:08 INFO  shutting down Metals[0m
+[0m2021.02.19 18:00:54 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.19 18:00:54 INFO  time: initialize in 0.84s[0m
+[0m2021.02.19 18:00:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.19 18:00:56 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.20 00:38:17 INFO  shutting down Metals[0m
+[0m2021.02.20 18:08:46 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.20 18:08:47 INFO  time: initialize in 0.84s[0m
+[0m2021.02.20 18:08:48 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.20 18:08:48 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.20 22:43:02 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.20 22:43:03 INFO  time: initialize in 0.9s[0m
+[0m2021.02.20 22:43:08 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.20 22:43:08 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.21 21:33:46 INFO  shutting down Metals[0m
+[0m2021.02.23 23:31:42 INFO  Started: Metals version 0.9.10 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.23 23:31:43 INFO  time: initialize in 0.98s[0m
+[0m2021.02.23 23:31:50 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.23 23:31:50 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.02.25 10:57:49 INFO  Started: Metals version 0.10.0 in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software' for client vscode 1.53.2.[0m
+[0m2021.02.25 10:57:50 INFO  time: initialize in 1.49s[0m
+[0m2021.02.25 10:57:56 WARN  Build server is not auto-connectable.[0m
+[0m2021.02.25 10:57:56 WARN  no build tool detected in workspace 'C:\Users\Raylan\Desktop\Programming\Programming UNB\Eng.Software'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m

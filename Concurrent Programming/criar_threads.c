@@ -28,7 +28,7 @@ int main() {
   printf("TERMINANDO\n");
   return 0;
 }
-//g++ thread.c -o thread -pthread
+//g++ criar_threads.c -o criar_threads -pthread
 
 
 

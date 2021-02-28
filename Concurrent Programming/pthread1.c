@@ -1,4 +1,3 @@
-//Exercício usando contador aula: (Disciplina de Programação Concorrente 2020/1- Processos)
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
@@ -9,14 +8,13 @@
 int contador = 0;
 
 void * pthread_func(void * arg){
-    for(int i=0;i<5;i++)
+    for(int i=0;i<5000;i++)
         contador++;
     
     int id = *((int *) arg);
     printf("Criou um pthread com id = %d \n", id);
     pthread_exit(0);
 }
-
 int main(){
     pthread_t a[N];
     printf("Meu id: %lu\n", pthread_self());
@@ -29,7 +27,6 @@ int main(){
         *id = i;
         pthread_create(&a[i], NULL, pthread_func, (void *) (id));
     }
-
     for(i=0; i<N; i++){
         pthread_join(a[i], NULL);
     }
@@ -39,4 +36,4 @@ int main(){
 
     return 0;
 }
-//gcc thread1.c -o thread1 -pthread
+//gcc pthread1.c -o pthread1 -pthread

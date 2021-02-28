@@ -3,7 +3,7 @@
 #include "pthread.h"
 #include "unistd.h"
 
-#define N 10
+#define N 2
 
 void * pthread_func(void * arg){
     int id = *((int *) arg); 
@@ -28,7 +28,7 @@ int main() {
   printf("TERMINANDO\n");
   return 0;
 }
-//g++ criar_threads.c -o criar_threads -pthread
+//gcc  criar_threads.c -o criar_threads -pthread
 
 
 
